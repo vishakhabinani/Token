@@ -1,3 +1,13 @@
+# TO RUN THE PROJECT
+
+1. Run `npm install` to install all node dependencies.
+2. Split the terminal and run `dfx start`.
+3. Split the terminal and run `dfx deploy`.
+4. on the npm terminal run `npm start` to start the frontend.
+
+
+
+
 # Check your Balance
 
 1. Find out your principal id:
@@ -8,7 +18,7 @@ dfx identity get-principal
 
 2. Save it somewhere.
 
-e.g. My principal id is: coqih-7oo3i-a4bu7-tub5a-74fe4-m3rra-ylo6t-mdfr3-b6khn-oyltu-5qe
+e.g. My principal id is: <paste it here>
 
 
 3. Format and store it in a command line variable:
